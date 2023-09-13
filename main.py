@@ -95,19 +95,3 @@ else:
 print('You see a river, however there is a', monster, 'standing there menacingly, eyeing your', slot1, '!')
 print(opt7)
 print(opt8)
-if input() == "attack" or "Fight" or "fight" or "Attack" or "Combat" or "combat":
-    print("Choose your weapon to attack with")
-    if slot1 = 0:
-        print("No item equiped in this slot!")
-    else:
-        if slot1 = 1 or 2 or 3 or 4 or 5 or 6
-        range(1,20) * opt13 / atk
-        else:
-            if slot1 = 7 or 8 or 9 and arrows != 0
-            chance = range(1,20) 
-            if chance >= 10
-            chance * opt19 / atk
-            else:
-                print("You tried firing your", slot1,"it was unsuccessful...")
-            
-    if slot2 = 0:
