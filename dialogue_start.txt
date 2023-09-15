@@ -1,0 +1,24 @@
+Go west
+Go south
+Go east
+Go north
+Go inside
+Climb up
+Climb down
+Rest
+Attack
+Sneak
+Spare
+Open inventory
+
+
+
+
+
+
+
+
+
+Welcome,
+on your journey. You see a giant dark forest in front of yourself. Your only equipment is what your village gave you to slay the threatening dragon.
+What do you do now?
